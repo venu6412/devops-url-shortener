@@ -1,8 +1,3 @@
-Got you bro — here is a **clean, perfect Markdown README** that will look professional when pasted into GitHub.
-Everything is formatted properly. Just **copy → paste → save** as `README.md`.
-
----
-
 # 🚀 URL Shortener API (Docker + AWS EC2)
 
 A simple **URL Shortener service** built using **Node.js + Express**, fully containerized with **Docker**, and deployed on **AWS EC2 (Ubuntu)**.
