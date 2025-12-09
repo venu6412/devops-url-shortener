@@ -113,13 +113,3 @@ http://YOUR_PUBLIC_IP/
 }
 ```
 
----
-
-## 👨‍💻 Author
-
-**Venu**
-DevOps | Docker | AWS | Node.js
-
-✅ A **LinkedIn post for this project**
-
-Just tell me: **"Bro create that too."**
